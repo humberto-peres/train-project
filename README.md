@@ -27,8 +27,8 @@ Este projeto implementa um sistema de controle para um trem, com a capacidade de
 
    Para garantir que tudo está funcionando corretamente, você pode executar os testes:
    ```python
-   cd tests\
-   coverage run -m unittest discover \
+   cd tests
+   coverage run -m unittest discover
    coverage report
    ```
    
