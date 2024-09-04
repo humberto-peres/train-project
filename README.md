@@ -13,10 +13,6 @@ Este projeto implementa um sistema de controle para um trem, com a capacidade de
 
    git clone https://github.com/humberto-peres/project_train.git
 
-2. Navegue até o diretório do projeto:
-
-   cd seu-repositorio
-
 ## 👨🏻‍💻 Uso
 
 1. **Executar o Trem**:
